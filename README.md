@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 O que são os GitHub Achievements?
+## 📌 O que são esses GitHub Achievements?
 Os *Achievements* são medalhas de honra exibidas no seu perfil do GitHub que representam suas atividades, contribuições e marcos dentro da comunidade. Eles servem como validação das suas habilidades e são desbloqueados automaticamente assim que você cumpre determinados critérios.
 
 ---
