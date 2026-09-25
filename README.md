@@ -1,87 +1,150 @@
-<div align="center">
+# Guia Definitivo: Como Desbloquear os Achievements e Badges do GitHub
 
-# 🏆 Guia Definitivo: Como Desbloquear os Achievements e Badges do GitHub
-
-*Descubra quais são as conquistas oficiais do GitHub e o passo a passo exato para desbloquear cada uma delas no seu perfil!*
-
-</div>
+Descubra quais são as conquistas oficiais do GitHub e como desbloquear cada uma delas no seu perfil.
 
 ---
 
-## 📌 O que são esses GitHub Achievements?
-Os *Achievements* são medalhas de honra exibidas no seu perfil do GitHub que representam suas atividades, contribuições e marcos dentro da comunidade. Eles servem como validação das suas habilidades e são desbloqueados automaticamente assim que você cumpre determinados critérios.
+## O que são os GitHub Achievements?
+
+Os *Achievements* são medalhas exibidas no perfil do GitHub que representam atividades, contribuições e marcos alcançados dentro da plataforma.
+
+Eles são desbloqueados automaticamente quando determinados critérios são cumpridos.
 
 ---
 
-## 🎯 1. Guia Prático: Como Desbloquear cada Achievement
+## 1. Como desbloquear cada Achievement
 
-### ⚡ Quickdraw
-* **O que é:** Premia a agilidade em fechar issues ou pull requests rapidamente.
-* **Passo a passo para desbloquear:**
-  1. Vá até um repositório e clique em **Create new issue**.
-  2. Clique em **"Submit new issue"**.
-  3. Aguarde cerca de 10 segundos.
-  4. Clique em **"Close issue"**.
-  🎉 Pronto! O achievement Quickdraw será desbloqueado.
+### Quickdraw
 
-### 🦈 Pull Shark
-* **O que é:** Um dos badges mais cobiçados, focado em contribuições via Pull Request.
-* **Passo a passo para desbloquear:**
-  1. Crie um novo repositório **público** com um arquivo `README.md`.
-  2. Edite o `README.md`.
-  3. Salve o arquivo e crie uma nova branch.
-  4. Abra um **Pull Request (PR)**.
-  5. Faça o **Merge** do Pull Request.
-  6. Repita os passos de 2 a 6 (você precisa de **2 pull requests mesclados** para garantir o achievement Bronze).
+**O que é:**
+Premia a rapidez ao fechar uma *Issue* ou *Pull Request*.
 
-### 🚀 YOLO (You Only Live Once)
-* **O que é:** Para quem gosta de testar o fluxo sem revisões burocráticas.
-* **Passo a passo para desbloquear:**
-  1. Crie um novo repositório **público** com um `README.md`.
-  2. Edite o `README.md` fazendo uma pequena alteração (como corrigir um erro de digitação ou adicionar uma linha).
-  3. Salve e crie uma nova branch.
-  4. Abra um Pull Request.
-  5. **Importante:** Em vez de aguardar uma revisão de código, clique diretamente em **Merge pull request** sem aprovações de review.
+**Como desbloquear:**
 
-### 🌟 Starstruck
-* **O que é:** Reconhece criadores de repositórios populares e úteis.
-* **Passo a passo para desbloquear:**
-  1. Tenha um repositório útil (projetos, anotações, *awesome lists*, etc.) e compartilhe-o com a comunidade.
-  2. Quando o seu projeto alcançar **16 estrelas (stars)**, você desbloqueará automaticamente o badge Starstruck.
+1. Acesse um repositório e clique em **Create new issue**.
+2. Clique em **Submit new issue**.
+3. Aguarde aproximadamente 10 segundos.
+4. Clique em **Close issue**.
 
-### 💸 Public Sponsor
-* **O que é:** Concedido a quem apoia financeiramente o ecossistema de código aberto.
-* **Passo a passo para desbloquear:**
-  1. Acesse a página do [GitHub Sponsors](https://github.com/sponsors).
-  2. Encontre um projeto público ou criador que ajude a sua jornada e apoie-o financeiramente cadastrando um método de pagamento.
-
-### 🧠 Galaxy Brain
-* **O que é:** Premia a participação ativa e útil em fóruns da comunidade.
-* **Passo a passo para desbloquear:**
-  * *Nota importante:* O badge Galaxy Brain não é mais concedido nas *Community Discussions*, mas ainda pode ser obtido em outros fóruns de *Discussions* habilitados em repositórios.
-  1. Encontre um repositório com a aba *Discussions* ativa e busque por uma pergunta sem resposta.
-  2. Responda corretamente à questão.
-  3. Faça com que a sua resposta seja marcada como a **resposta aceita** pelo dono da pergunta.
-  4. Alcance **2 respostas aceitas** para desbloquear o achievement.
+Após cumprir essas etapas, o achievement deverá ser desbloqueado automaticamente.
 
 ---
 
-## 🔒 Badges Não Obtíveis (Legacy / Especiais)
-Alguns badges históricos ou baseados em eventos específicos não podem mais ser conquistados ativamente:
-* **Heart On Your Sleeve** (Não obtível 🔒)
-* **Open Sourcerer** (Não obtível 🔒)
-* **Mars 2020 Contributor** (Não obtível 🔒)
-* **Arctic Code Vault Contributor** (Não obtível 🔒 - Referente ao programa histórico de arquivamento no Ártico).
+### Pull Shark
+
+**O que é:**
+Reconhece contribuições realizadas por meio de *Pull Requests*.
+
+**Como desbloquear:**
+
+1. Crie um repositório público com um arquivo `README.md`.
+2. Faça uma alteração no `README.md`.
+3. Crie uma nova branch para a alteração.
+4. Abra um **Pull Request**.
+5. Faça o *merge* do Pull Request.
+6. Repita o processo até atingir a quantidade necessária de Pull Requests mesclados.
+
+Para o nível Bronze, são necessários **2 Pull Requests mesclados**.
 
 ---
 
-## 💡 Como Exibir ou Gerenciar seus Achievements
-Por padrão, as conquistas aparecem na coluna lateral do seu perfil público. Caso queira gerenciar a visibilidade ou personalizar detalhes como a cor dos emojis da sua conta:
-1. Clique na sua foto de perfil no canto superior direito e vá em **Settings**.
-2. Na barra lateral esquerda, clique em **Appearance**.
-3. Lá você pode ajustar preferências globais, como o tom de pele dos emojis e a exibição de elementos visuais do perfil.
+### YOLO (You Only Live Once)
+
+**O que é:**
+Reconhece um Pull Request que foi mesclado sem passar por uma aprovação de *review*.
+
+**Como desbloquear:**
+
+1. Crie um repositório público com um `README.md`.
+2. Faça uma pequena alteração no arquivo, como corrigir um erro de digitação ou adicionar uma linha.
+3. Crie uma nova branch.
+4. Abra um **Pull Request**.
+5. Faça o *merge* diretamente, sem aguardar uma aprovação de *review*.
 
 ---
 
-## 🤝 Contribua com o Repositório!
-Se gostou deste guia, considere deixar uma ⭐️ estrela no repositório original e sinta-se à vontade para enviar uma *Pull Request* com melhorias!
+### Starstruck
+
+**O que é:**
+Reconhece repositórios que conquistaram uma quantidade significativa de estrelas.
+
+**Como desbloquear:**
+
+1. Crie um projeto útil e disponibilize-o publicamente.
+2. Compartilhe o projeto com a comunidade.
+3. Quando o repositório atingir **16 estrelas**, o achievement será desbloqueado automaticamente.
+
+Projetos, ferramentas, bibliotecas, listas e materiais educacionais são alguns exemplos de conteúdos que podem receber estrelas da comunidade.
+
+---
+
+### Public Sponsor
+
+**O que é:**
+Concedido a usuários que apoiam publicamente projetos ou desenvolvedores por meio do GitHub Sponsors.
+
+**Como desbloquear:**
+
+1. Acesse o [GitHub Sponsors](https://github.com/sponsors).
+2. Encontre um desenvolvedor ou projeto participante.
+3. Realize um patrocínio utilizando um método de pagamento disponível.
+4. Mantenha o patrocínio público.
+
+---
+
+### Galaxy Brain
+
+**O que é:**
+Reconhece usuários que fornecem respostas úteis em discussões da comunidade.
+
+**Como desbloquear:**
+
+1. Encontre um repositório com a aba **Discussions** habilitada.
+2. Procure uma pergunta que ainda não tenha uma resposta aceita.
+3. Responda à pergunta com uma solução útil.
+4. Faça com que sua resposta seja marcada como **resposta aceita** pelo autor da pergunta.
+5. Alcance **2 respostas aceitas** para desbloquear o achievement.
+
+> **Observação:** Os critérios e locais em que determinados achievements podem ser obtidos podem mudar ao longo do tempo. Consulte a documentação oficial do GitHub para confirmar os critérios atuais.
+
+---
+
+## 2. Achievements que não podem mais ser obtidos
+
+Alguns achievements históricos estão associados a eventos ou programas que já foram encerrados.
+
+Entre eles estão:
+
+* **Heart On Your Sleeve**
+* **Open Sourcerer**
+* **Mars 2020 Contributor**
+* **Arctic Code Vault Contributor**
+
+Esses achievements são considerados históricos e não podem mais ser desbloqueados por meio de novas contribuições.
+
+---
+
+## 3. Como exibir e gerenciar seus Achievements
+
+Os achievements aparecem no perfil público do GitHub quando estão habilitados para exibição.
+
+Para acessar as configurações relacionadas à aparência do perfil:
+
+1. Clique na sua foto de perfil no canto superior direito.
+2. Acesse **Settings**.
+3. Na barra lateral, selecione **Appearance**.
+4. Ajuste as preferências disponíveis relacionadas à aparência do seu perfil.
+
+As opções disponíveis podem variar de acordo com as configurações atuais do GitHub.
+
+---
+
+## 4. Contribua com o projeto
+
+Se este guia foi útil para você, considere deixar uma estrela no repositório original.
+
+Também é possível contribuir com melhorias, correções e atualizações por meio de um **Pull Request**.
+
+---
+
+**Autores:** Tiago Antunes e Isaac Vieira
