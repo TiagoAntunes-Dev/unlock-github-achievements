@@ -85,3 +85,4 @@ Por padrão, as conquistas aparecem na coluna lateral do seu perfil público. Ca
 
 ## 🤝 Contribua com o Repositório!
 Se gostou deste guia, considere deixar uma ⭐️ estrela no repositório original e sinta-se à vontade para enviar uma *Pull Request* com melhorias!
+Feito por Tiago Antunes e Isaac Vieira
