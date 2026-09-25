@@ -1,10 +1,14 @@
 <div align="center">
 
+<<<<<<< Updated upstream
 # 🏆 Guia Definitivo: Como Desbloquear os Achievements e Badges do GitHub
 
 *Descubra quais são as conquistas oficiais do GitHub e o passo a passo exato para desbloquear cada uma delas no seu perfil!*
 
 </div>
+=======
+Descubra quais são as conquistas/badges oficiais do GitHub e como desbloquear cada uma delas no seu perfil.
+>>>>>>> Stashed changes
 
 ---
 
