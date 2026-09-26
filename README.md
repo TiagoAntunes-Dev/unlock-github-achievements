@@ -1,6 +1,6 @@
 # Guia Definitivo: Como Desbloquear os Achievements e Badges do GitHub
 
-Descubra quais são as conquistas oficiais do GitHub e como desbloquear cada uma delas no seu perfil.
+Descubra quais são as conquistas oficiais, chamado de Badges do GitHub e como desbloquear cada uma delas no seu perfil.
 
 ---
 
